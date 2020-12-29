@@ -1,8 +1,6 @@
 import React from 'react';
-import {ScrollView, StyleSheet, View, TextInput, TouchableOpacity, Text} from 'react-native';
-import {withContext} from "./Context";
+import {StyleSheet, View, Text} from 'react-native';
 import Colors from "react-native/Libraries/NewAppScreen/components/Colors";
-import Icon from 'react-native-vector-icons/FontAwesome';
 
 
 const Message = ({message, thisId}) => {

@@ -1,6 +1,5 @@
 import React from 'react';
-import {Image, ScrollView, StyleSheet, Text, View, CheckBox} from 'react-native';
-import Icon from "react-native-vector-icons/AntDesign";
+import {ScrollView, StyleSheet, Text, View, CheckBox} from 'react-native';
 import StyledButton from "./StyledButton";
 import {withContext} from "./Context";
 import ImageView from "./ImageView";

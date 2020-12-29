@@ -1,5 +1,5 @@
 import React from 'react';
-import {ScrollView, StyleSheet, View, TextInput, TouchableOpacity, Text} from 'react-native';
+import {ScrollView, StyleSheet, View, TextInput, TouchableOpacity} from 'react-native';
 import {withContext} from "./Context";
 import Colors from "react-native/Libraries/NewAppScreen/components/Colors";
 import Icon from 'react-native-vector-icons/FontAwesome';
